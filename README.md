@@ -11,7 +11,7 @@ SD03Q03 -Task document.pdf - This file contains the two problem statement to be 
 3. curneu_task_1.py & curneu_task_1.ipynb - This the python file contains the entire code of the implementation.
 4. fruits.csv - This is the csv file contains the fruit dataset.
 
-# Problem statement 2 - This folder contains the following 4 files.
+# Problem statement 2 - This folder contains the following 3 files.
 
 1. Curneu_task2.mp4 - This file is the video of running the task 2 code.
 2. curneu_task2.py & curneu_task2.ipynb - This the python file contains the entire code of the implementation.
